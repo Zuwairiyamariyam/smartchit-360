@@ -1,4 +1,4 @@
-<p><b><font size="6">Smart Chit 360</font></b></p>
+<p><b><font size="10">Smart Chit 360</font></b></p>
 <hr>
 
 <div align="justify">
