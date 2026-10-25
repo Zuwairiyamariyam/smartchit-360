@@ -1,10 +1,14 @@
 # Smart Chit 360
 
+<div align="justify">
 Smart Chit 360 is a Java-based backend application designed to simplify traditional chit savings, community loan management, and gold savings tracking. It brings three financial management modules into a single system: General Chit, Street Chit, and Gold Chit. The application automates financial calculations, organizes member and borrower details, and stores records in a MySQL database. It helps reduce manual record-keeping and makes financial information easier to manage. Built using Spring Boot, Hibernate/JPA, and MySQL, the project demonstrates how backend technologies can support traditional financial processes.
+</div>
 
 ## 🚀 Problem Statement
 
+<div align="justify">
 Traditional chit and savings systems often rely on manual calculations, paper records, and handwritten receipts, which can lead to errors and missing information.
+</div>
 
 - **Manual Record-Keeping:** Maintaining member contributions, loan repayments, and gold savings in notebooks makes record management difficult.
 - **Chit Rotation Confusion:** Manually deciding and tracking monthly turns can lead to confusion and disagreements among members.
