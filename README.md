@@ -8,21 +8,27 @@ Smart Chit 360 is a Java-based backend application designed to simplify traditio
 
 <div align="justify">
 Traditional chit and savings systems often rely on manual calculations, paper records, and handwritten receipts, which can lead to errors and missing information.
-</div>
 
-- **Manual Record-Keeping:** Maintaining member contributions, loan repayments, and gold savings in notebooks makes record management difficult.
-- **Chit Rotation Confusion:** Manually deciding and tracking monthly turns can lead to confusion and disagreements among members.
-- **Complex Loan Collection:** Managing multiple borrowers, calculating interest, and tracking leader-wise collections increases the workload of loan officers and group leaders.
-- **Limited Gold Savings Tracking:** Losing a physical savings book can make it difficult to verify previous deposits and payment details.
+<ul>
+  <li><b>Manual Record-Keeping:</b> Maintaining member contributions, loan repayments, and gold savings in notebooks makes record management difficult.</li>
+  <li><b>Chit Rotation Confusion:</b> Manually deciding and tracking monthly turns can lead to confusion and disagreements among members.</li>
+  <li><b>Complex Loan Collection:</b> Managing multiple borrowers, calculating interest, and tracking leader-wise collections increases the workload of loan officers and group leaders.</li>
+  <li><b>Limited Gold Savings Tracking:</b> Losing a physical savings book can make it difficult to verify previous deposits and payment details.</li>
+</ul>
+</div>
 
 ## ✨ Key Features
 
-- **General Chit Management:** Supports family and office chit schemes with member details, installment calculations, and rotational turn scheduling.
-- **Emergency Turn Changes:** Allows family chit turns to be adjusted when a member has an urgent financial need.
-- **Street Chit Management:** Calculates loan interest, total repayment, monthly installments, and leader-wise collection targets.
-- **Gold Savings Ledger:** Calculates gold quantity based on the deposit amount and the applicable gold rate, and generates a digital receipt token.
-- **Database Record Management:** Stores scheme details, participant information, and gold savings records in MySQL for future retrieval.
-- **Console-Based Interaction:** Allows users to select modules, enter details, and view calculated results through the terminal.
+<div align="justify">
+<ul>
+  <li><b>General Chit Management:</b> Supports family and office chit schemes with member details, installment calculations, and rotational turn scheduling.</li>
+  <li><b>Emergency Turn Changes:</b> Allows family chit turns to be adjusted when a member has an urgent financial need.</li>
+  <li><b>Street Chit Management:</b> Calculates loan interest, total repayment, monthly installments, and leader-wise collection targets.</li>
+  <li><b>Gold Savings Ledger:</b> Calculates gold quantity based on the deposit amount and the applicable gold rate, and generates a digital receipt token.</li>
+  <li><b>Database Record Management:</b> Stores scheme details, participant information, and gold savings records in MySQL for future retrieval.</li>
+  <li><b>Console-Based Interaction:</b> Allows users to select modules, enter details, and view calculated results through the terminal.</li>
+</ul>
+</div>
 
 ## 🛠️ Tech Stack
 
