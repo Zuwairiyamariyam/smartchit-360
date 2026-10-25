@@ -1,10 +1,12 @@
-# Smart Chit 360
+<h1 align="left">Smart Chit 360</h1>
 
 <div align="justify">
 Smart Chit 360 is a Java-based backend application designed to simplify traditional chit savings, community loan management, and gold savings tracking. It brings three financial management modules into a single system: General Chit, Street Chit, and Gold Chit. The application automates financial calculations, organizes member and borrower details, and stores records in a MySQL database. It helps reduce manual record-keeping and makes financial information easier to manage. Built using Spring Boot, Hibernate/JPA, and MySQL, the project demonstrates how backend technologies can support traditional financial processes.
 </div>
 
-## 🚀 Problem Statement
+<br>
+
+<p><b><font size="5">🚀 Problem Statement</font></b></p>
 
 <div align="justify">
 Traditional chit and savings systems often rely on manual calculations, paper records, and handwritten receipts, which can lead to errors and missing information.
@@ -17,7 +19,9 @@ Traditional chit and savings systems often rely on manual calculations, paper re
 </ul>
 </div>
 
-## ✨ Key Features
+<br>
+
+<p><b><font size="5">✨ Key Features</font></b></p>
 
 <div align="justify">
 <ul>
@@ -30,14 +34,20 @@ Traditional chit and savings systems often rely on manual calculations, paper re
 </ul>
 </div>
 
-## 🛠️ Tech Stack
+<br>
 
-- **Programming Language:** Java
-- **Backend Framework:** Spring Boot
-- **ORM Framework:** Hibernate
-- **Data Access:** Spring Data JPA
-- **Database:** MySQL
-- **Database Connectivity:** JDBC / MySQL Connector
-- **Development Tools:** Eclipse IDE, MySQL Workbench
-- **Build Tool:** Apache Maven
-- **Version Control:** Git & GitHub
+<p><b><font size="5">🛠️ Tech Stack</font></b></p>
+
+<div align="justify">
+<ul>
+  <li><b>Programming Language:</b> Java</li>
+  <li><b>Backend Framework:</b> Spring Boot</li>
+  <li><b>ORM Framework:</b> Hibernate</li>
+  <li><b>Data Access:</b> Spring Data JPA</li>
+  <li><b>Database:</b> MySQL</li>
+  <li><b>Database Connectivity:</b> JDBC / MySQL Connector</li>
+  <li><b>Development Tools:</b> Eclipse IDE, MySQL Workbench</li>
+  <li><b>Build Tool:</b> Apache Maven</li>
+  <li><b>Version Control:</b> Git & GitHub</li>
+</ul>
+</div>
