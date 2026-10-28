@@ -49,16 +49,19 @@ public class MainPage implements CommandLineRunner {
                 continue;
             }
 
-            if (choice == 1) {
-                handleGeneralChit();
-            } else if (choice == 2) {
-                handleStreetChit();
-            } else if (choice == 3) {
-                handleGoldChit();
-            } else {
-                System.out.println("Exiting SmartChit 360 Engine. Goodbye!");
-                break;
-            }
+
+           if (choice == 1) {
+           handleGeneralChit();
+           } else if (choice == 2) {
+           handleStreetChit();
+           } else if (choice == 3) {
+           handleGoldChit();
+           } else if (choice == 4) {
+               System.out.println("Exiting SmartChit 360 Engine. Goodbye!");
+           break;
+           } else {
+           System.out.println("Invalid choice! Please try again.");
+          }
         }
     }
 
